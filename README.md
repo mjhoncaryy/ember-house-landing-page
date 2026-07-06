@@ -134,11 +134,7 @@ npm.cmd run preview
 |-- index.html
 |-- package.json
 |-- postcss.config.js
-|-- tailwind.config.ts
 |-- tsconfig.json
-|-- vite.config.ts
-|-- PRODUCT.md
-|-- DESIGN.md
 `-- src/
     |-- main.tsx
     |-- app/
